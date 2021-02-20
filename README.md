@@ -1,4 +1,4 @@
-### Demo code for NeurIPS 2020 Submision "A Self-Supervised Probabilistic Generative Model for Aspect-Aware Heterogeneous Graph Embedding"
+### The code for KDD2021 Submision "A Self-Supervised Disentangled Network for Aspect-Aware Heterogeneous Graph Embedding"
 
 ## Requirements
 Our proposed method relies on
